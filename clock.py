@@ -9,5 +9,6 @@ while seconds:
     print(timer, end="\r")
     time.sleep(1)
     seconds -= 1    
+//d 
 
 print("时间到了！")
