@@ -11,4 +11,4 @@ while seconds:
     seconds -= 1    
 //d 232333
 
-print("时间到了！")
+print("啦啦啦，时间到了！")
